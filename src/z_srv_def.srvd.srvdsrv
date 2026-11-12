@@ -1,0 +1,5 @@
+@EndUserText.label: 'Servive definition'
+define service Z_SRV_DEF {
+  expose Z_DATA_DEFINITION_CONN;
+  expose Z_DATA_DEFINITION_FLIGHT;
+}

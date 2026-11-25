@@ -1,0 +1,5 @@
+CLASS zcl_bp_booking_dd_m DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF z_travel_dd_m.
+ENDCLASS.
+
+CLASS zcl_bp_booking_dd_m IMPLEMENTATION.
+ENDCLASS.
